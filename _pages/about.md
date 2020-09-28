@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Todor Davchev"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a final year PhD student in Robot Learning at the University of Edinburgh, where I am part of the [Robust Autonomy and Decisions (RAD)](http://rad.inf.ed.ac.uk/) group. Here I am supervised by prof. Subramanian Ramamoorthy and co-supervised by prof. Timothy Hospedales. Among others, I also learn from Dr. Michael Burke and Dr. Kevin Luck. Recently, I have been very fortunate to learn and work along with Dr. Franziska Meier too and was awarded the Google X AI Residency where I was supervised by prof. Stefan Schaal.
 
-A data-driven personal website
+Broadly, my interests lie in the intersection of robotics and machine learning.
+In my PhD I focus on improving the sample efficiency and robustness of learnt models through utilising inductive biases in the context of robotics applications. In the past, I have studied ways of building such biases through learning modular, re-usable across tasks, world models \[[1](https://arxiv.org/abs/1911.13044), [2](https://arxiv.org/abs/1907.06422)\], demonstrations \[[3](https://arxiv.org/abs/2008.07682),[4](https://www.overleaf.com/project/595bffafe4d6151355778d14)\], transfer learning \[[5](https://arxiv.org/abs/1905.02675)\] and extracted hierarchies \[[6](https://www.overleaf.com/project/5a1e977db94c9524c9fa0448)\]. I have particular interest in fast contact-rich skill acquisitions, such as peg, gear and plug insertions and have also studied ways to improve 2D trajectory generation in crowded and collaborative settings as well as extracting robust to perturbations and tasks representations.
+With this, I am generally excited about projects combining ML/RL and robotics, including working on algorithms, simulations, and actual robot experimentation.
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -47,4 +51,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
