@@ -15,7 +15,7 @@ Education
 * M.S. in Informatics (Machine Learning), University of Edinburgh, 2016
 * B.S. in Artificial Intelligence, University of Aberdeen, 2014
 
-Work experience
+Work Experience
 ======
 
 * May-Sept 2019: AI Resident @ Google X
