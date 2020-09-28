@@ -8,7 +8,8 @@ tags:
   - category2
 ---
 
-# Introduction
+Introduction
+======
 
 This tutorial is meant as an introduction to the problem of trajectory generation. It introduces several ways for modelling the motion of agents in pixel space and proposes several ways of preprocessing data. It follows the structure from its associated [GitHub repository](https://github.com/yadrimz/Stochastic-Futures-Prediction). Feel free to skip to the end to see the performance of 2 basic models.
 
