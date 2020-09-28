@@ -44,6 +44,9 @@ Skills
 * Deep Learning
   * Tensorflow
   * Pytorch
+* Robotics
+  * SL
+  * ROS
 
 Publications
 ======
