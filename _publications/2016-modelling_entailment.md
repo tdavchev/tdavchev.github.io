@@ -10,7 +10,7 @@ venue: 'MSc Thesis'
 paperurl: 'http://tdavchev.github.io/files/MSc_Dissertation_Report.pdf'
 citation: 'Davchev, Todor. (2016). &quot;Modelling Entailment with Neural Networks.&quot; <i>MSc Thesis</i>. University of Edinburgh.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This work is about modelling entailment with CNNs. We show that our approach achieves better results than the existing techniques and reducing the feature engineering requirements.
 
 [Download paper here](http://tdavchev.github.io/files/MSc_Dissertation_Report.pdf)
 
