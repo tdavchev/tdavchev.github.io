@@ -12,4 +12,4 @@ This paper is about learning modular methods that explictly allow for unsupervis
 
 [Download paper here](https://arxiv.org/pdf/1911.13044.pdf)
 
-Recommended citation: Davchev, Todor, Michael Burke, and Subramanian Ramamoorthy (2019). "Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes." Arxiv preprint. arXiv:1911.13044.
+Recommended citation: Davchev, Todor, Michael Burke, and Subramanian Ramamoorthy (2019). Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes. Arxiv preprint. arXiv:1911.13044.
