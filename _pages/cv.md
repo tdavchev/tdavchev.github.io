@@ -21,8 +21,8 @@ Work Experience
 ======
 
 * AI Resident @ <b>Google X</b> - May-Sept 2019
-* Visiting Data Scientist @ <b>The Alan Turing Institute/b> - Aug 2017
-* Software Developer (test automation) @ <b>RSpace/b> - May-Dec 2016
-* Full-stack Developer @ <b>Broadridge Financial Solutions/b> - 2014-2015
-* Backend Developer @ <b>Mikamai S.a.r.l./b> - Summer 2013
-* Technical Consultant @ <b>Chillchaser/b> - 2012-2014
+* Visiting Data Scientist @ <b>The Alan Turing Institute</b> - Aug 2017
+* Software Developer (test automation) @ <b>RSpace</b> - May-Dec 2016
+* Full-stack Developer @ <b>Broadridge Financial Solutions</b> - 2014-2015
+* Backend Developer @ <b>Mikamai S.a.r.l.</b> - Summer 2013
+* Technical Consultant @ <b>Chillchaser</b> - 2012-2014
