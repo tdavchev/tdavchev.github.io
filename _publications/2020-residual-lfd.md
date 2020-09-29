@@ -10,5 +10,5 @@ citation: 'Davchev, T., Luck, K.S., Burke, M., Meier, F., Schaal, S. and Ramamoo
 ---
 In this work we propose residual learning from demonstration (rLfD), a framework that combines dynamic movement primitives (DMP) that rely on behavioural cloning with a reinforcement learning (RL) based residual correction policy.
 
-[Project website](https://sites.google.com/view/rlfd/)
+[Project website](https://sites.google.com/view/rlfd/) |
 [Download paper here](https://arxiv.org/pdf/2008.07682.pdf)

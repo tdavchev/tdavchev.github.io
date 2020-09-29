@@ -10,5 +10,5 @@ citation: 'Davchev, T., Burke M., and Ramamoorthy, S. Learning Structured Repres
 ---
 This paper is about learning modular methods that explictly allow for unsupervised adaptation of trajectory prediction models to unseen environments.
 
-[Project website](https://sites.google.com/view/rdb-agents/)
+[Project website](https://sites.google.com/view/rdb-agents/) |
 [Download paper here](https://arxiv.org/pdf/1911.13044.pdf)
