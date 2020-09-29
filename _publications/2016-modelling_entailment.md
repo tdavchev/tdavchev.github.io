@@ -8,7 +8,7 @@ CNN. More precisely, we exploit the low dimensionality representation of the alr
 date: 2016-09-01
 venue: 'MSc Thesis'
 paperurl: 'http://tdavchev.github.io/files/MSc_Dissertation_Report.pdf'
-citation: 'Davchev, Todor. (2016). &quot;Modelling Entailment with Neural Networks.&quot; <i>MSc Thesis</i>. University of Edinburgh.'
+citation: 'Davchev, T. (2016). &quot;Modelling Entailment with Neural Networks.&quot; <i>MSc Thesis</i>. University of Edinburgh.'
 ---
 This work is about modelling entailment with CNNs. We show that our approach achieves better results than the existing techniques and reducing the feature engineering requirements.
 

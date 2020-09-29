@@ -6,7 +6,7 @@ excerpt: 'Context plays a significant role in the generation of motion for dynam
 date: 2019-11-29
 venue: 'arXiv preprint arXiv:1911.13044'
 paperurl: 'https://arxiv.org/pdf/1911.13044.pdf'
-citation: 'Davchev, Todor, Michael Burke, and Subramanian Ramamoorthy. Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes. arXiv preprint arXiv:1911.13044 (2019).'
+citation: 'Davchev, T., Burke M., and Ramamoorthy, S. Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes. arXiv preprint arXiv:1911.13044 (2019).'
 ---
 This paper is about learning modular methods that explictly allow for unsupervised adaptation of trajectory prediction models to unseen environments.
 
