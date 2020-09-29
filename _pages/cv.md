@@ -26,9 +26,3 @@ Work Experience
 * Full-stack Developer @ <b>Broadridge Financial Solutions</b> - 2014-2015
 * Backend Developer @ <b>Mikamai S.a.r.l.</b> - Summer 2013
 * Technical Consultant @ <b>Chillchaser</b> - 2012-2014
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
