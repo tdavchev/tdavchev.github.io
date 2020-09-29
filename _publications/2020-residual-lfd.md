@@ -7,9 +7,8 @@ date: 2020-08-18
 venue: 'arXiv preprint arXiv:2008.07682'
 paperurl: 'https://arxiv.org/pdf/2008.07682.pdf'
 citation: 'Davchev, T., Luck, K.S., Burke, M., Meier, F., Schaal, S. and Ramamoorthy, S., 2020. Residual Learning from Demonstration. arXiv preprint arXiv:2008.07682.'
+website: 'https://sites.google.com/view/rlfd/'
 ---
 In this work we propose residual learning from demonstration (rLfD), a framework that combines dynamic movement primitives (DMP) that rely on behavioural cloning with a reinforcement learning (RL) based residual correction policy.
 
 [Download paper here](https://arxiv.org/pdf/2008.07682.pdf)
-
-Recommended citation: Davchev, T., Luck, K.S., Burke, M., Meier, F., Schaal, S. and Ramamoorthy, S., 2020. Residual Learning from Demonstration. arXiv preprint arXiv:2008.07682.
