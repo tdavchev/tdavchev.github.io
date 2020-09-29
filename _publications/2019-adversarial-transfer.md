@@ -6,7 +6,7 @@ excerpt: 'In this work, we evaluate adversarial robustness in the context of tra
 date: 2019-05-07
 venue: 'ICML 2019 Understanding and Improving Generalisation Workshop'
 paperurl: 'https://arxiv.org/pdf/1905.02675.pdf'
-citation: 'Davchev, T., Korres, T., Fotiadis, S., Antonopoulos, N. and Ramamoorthy, S., 2019. An empirical evaluation of adversarial robustness under transfer learning. arXiv preprint arXiv:1905.02675 (2019).'
+citation: 'Davchev, T., Korres, T., Fotiadis, S., Antonopoulos, N. and Ramamoorthy, S., 2019. An empirical evaluation of adversarial robustness under transfer learning. ICML Understanding and Improving Generalisation W-shop (2019).'
 ---
 This paper studies the effects of using robust optimisation in the context of adversarial attacks. This allows us to identify transfer learning strategies under which adversarial defences are successfully retained, in addition to revealing potential vulnerabilities.
 
