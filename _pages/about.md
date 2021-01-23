@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD student in Robot Learning at the University of Edinburgh, where I am part of the [Robust Autonomy and Decisions (RAD)](http://rad.inf.ed.ac.uk/) group.
+I am a final year PhD student in Robot Learning at the University of Edinburgh, where I am part of the [Robust Autonomy and Decisions (RAD)](http://rad.inf.ed.ac.uk/) group. Here I am supervised by prof. Subramanian Ramamoorthy and co-supervised by prof. Timothy Hospedales. 
 
-Broadly, my interests lie in the intersection of robotics and machine learning.
-In my PhD I focus on improving the sample efficiency and robustness of learnt models through utilising inductive biases in the context of robotics applications. In the past, I have studied ways of building such biases through learning modular and re-usable across tasks world models \[[1](https://ieeexplore.ieee.org/document/9309332?source=authoralert), [2](https://arxiv.org/abs/1907.06422)\]; demonstrations \[[3](https://arxiv.org/abs/2008.07682),[4](https://arxiv.org/abs/2010.09034)\]; transfer learning \[[5](https://arxiv.org/abs/1905.02675)\]; and extracted hierarchies \[[6](https://www.overleaf.com/project/5a1e977db94c9524c9fa0448)\]. I have particular interest in fast contact-rich skill acquisitions, such as peg, gear and plug insertions and have also studied ways to improve 2D trajectory generation in crowded and collaborative settings as well as extracting robust to perturbations and task representations.
-With this, I am generally excited about projects combining ML/RL and robotics, including working on algorithms, simulations, and actual robot experimentation.
+Throughout the course of my PhD I have been very fortunate to collaborate with and learn from Dr. Kevin Luck, Dr. Michael Burke and Dr. Franziska Meier. I also completed the Google X AI Residency where I was hosted and supervised by prof. Stefan Schaal. Currently, I am a Visiting Intern at DeepMind where I work with Dr. Jon Scholz and a Google X AI resident (for a second time) where I continue learning from prof. Stefan Schaal.
 
 <span style="color:red"> News </span>  **Workshop ICLR 2021 live!** Our workshop on Learning-To-Learn brings together neuroscience and machine learning experts to push the boundaries of the field. Consider submitting (deadline 26th Feb) [Website](https://sites.google.com/view/learning-2-learn). <br/>
 <span style="color:red"> News </span> **Update** I am joining DeepMind as a visiting research intern as part of Google X AI residency. I will be working closely with Dr. Jon Scholz and prof. Stefan Schaal!<br/>
