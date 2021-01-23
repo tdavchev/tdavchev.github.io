@@ -12,5 +12,3 @@ citation: 'Davchev, Todor. (2016). Modelling Entailment with Neural Networks. <i
 <a href='http://tdavchev.github.io/files/MSc_Dissertation_Report.pdf'>Download paper here</a>
 
 This work is about modelling entailment with CNNs. We show that our approach achieves better results than the existing techniques and reducing the feature engineering requirements..
-
-Recommended citation: Davchev, Todor. (2016). Modelling Entailment with Neural Networks. <i>MSc Thesis</i>. University of Edinburgh.
