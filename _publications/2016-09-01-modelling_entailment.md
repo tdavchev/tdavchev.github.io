@@ -1,5 +1,5 @@
 ---
-title: "Modelling Entailment with Neural Networks"
+title: "Modelling Entailment with Neural Networks."
 collection: publications
 permalink: /publication/2016-09-01-modelling_entailment
 excerpt: 'Sentence classification is currently among the unresolved challenges of Natural Language Understanding and Machine Learning. In this thesis we focus on modelling entailment relations which can be considered as a sub-problem of sentence classification.
