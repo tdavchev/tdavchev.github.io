@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My PhD supervisors are prof. Subramanian Ramamoorthy and prof. Timothy Hospedales. I have been very fortunate to collaborate with and learn from Dr. Franziska Meier , Dr. Michael Burke and Dr. Kevin Luck. I also completed the Google X AI Residency where I was hosted and supervised by prof. Stefan Schaal. Currently, I am a Visiting Intern at DeepMind where I work with Dr. Jon Scholz and a Google X AI resident (for a second time) where I continue learning from prof. Stefan Schaal.
+
 A complete CV can be found [here](https://tdavchev.github.io/files/CV.pdf).
 
 Education
