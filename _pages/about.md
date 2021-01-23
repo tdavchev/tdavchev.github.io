@@ -12,8 +12,8 @@ I am a final year PhD student in Robot Learning at the University of Edinburgh, 
 
 <span style="color:red"> News </span>  **Workshop ICLR 2021 live!** Our workshop on Learning-To-Learn brings together neuroscience and machine learning experts to push the boundaries of the field. Consider submitting (deadline 26th Feb) [Website](https://sites.google.com/view/learning-2-learn). <br/>
 <span style="color:red"> News </span> **Update** I am joining DeepMind as a visiting researcher as part of Google X AI residency. I will be working closely with Dr. Jon Scholz.<br/>
-<span style="color:red"> News </span> Our paper Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes got accepted at RA:L Special issue on Long-term Human Trajectory Prediction!<br/>
-<span style="color:red"> News </span> Our paper Model-Based Inverse Reinforcement Learning from Visual Demonstration was accepted at CoRL 2020!
+<span style="color:red"> News </span> **Research** Our paper Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes got accepted at RA:L Special issue on Long-term Human Trajectory Prediction!<br/>
+<span style="color:red"> News </span> **Research** Our paper Model-Based Inverse Reinforcement Learning from Visual Demonstration was accepted at CoRL 2020!
 {: .notice}
 
 <!-- A data-driven personal website
