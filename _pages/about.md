@@ -15,7 +15,7 @@ In my PhD I focus on improving the sample efficiency and robustness of learnt mo
 With this, I am generally excited about projects combining ML/RL and robotics, including working on algorithms, simulations, and actual robot experimentation.
 
 <span style="color:red"> News </span>  **Workshop ICRA 2021 live!** Our workshop on Learning-To-Learn for Robotics aims to provide an informative overview of the existing challenges in L2L for Robotics. Consider submitting (deadline 15th May) [Website](https://sites.google.com/view/learn-to-learn-robotics/). <br/>
-<span style="color:red"> News </span>  **Workshop ICLR 2021 live!** Our workshop on Learning-To-Learn brings together neuroscience and machine learning experts to push the boundaries of the field. Consider submitting (deadline 26th Feb) [Website](https://sites.google.com/view/learning-2-learn). <br/>
+<span style="color:red"> News </span>  **Workshop ICLR 2021 live!** Our workshop on Learning-To-Learn brings together neuroscience and machine learning experts to push the boundaries of the field. [Website](https://sites.google.com/view/learning-2-learn). <br/>
 <span style="color:red"> News </span> **Update** I am joining DeepMind as a visiting research intern as part of Google X AI residency. I will be working closely with Dr. Jon Scholz and prof. Stefan Schaal!<br/>
 <span style="color:red"> News </span> **Research** Our paper Learning Structured Representations of Spatial and Interactive Dynamics for Trajectory Prediction in Crowded Scenes got accepted at RA:L Special issue on Long-term Human Trajectory Prediction!<br/>
 <span style="color:red"> News </span> **Research** Our paper Model-Based Inverse Reinforcement Learning from Visual Demonstration was accepted at CoRL 2020!
