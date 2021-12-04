@@ -6,7 +6,7 @@ excerpt: 'This work shows how models trained entirely in simulation, in an end-t
 date: 2019-12-12
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'http://homepages.inf.ed.ac.uk/ksubr/Files/Papers/ICRA20Vid2Param.pdf'
-citation: 'Asenov, M., Burke, M., Angelov, D., Davchev, T., Subr, K. and Ramamoorthy, S., 2019. Vid2Param: Modeling of Dynamics Parameters From Video. <i>IEEE Robotics and Automation Letters</i>, 5(2), pp.414-421.'
+citation: 'Asenov, M., Burke, M., Angelov, D., Davchev, T., Subr, K. and Ramamoorthy, S., 2019. Vid2param: Modeling of dynamics parameters from video. IEEE Robotics and Automation Letters, 5(2), pp.414-421.'
 ---
 
 <a href='http://homepages.inf.ed.ac.uk/ksubr/Files/Papers/ICRA20Vid2Param.pdf'>Download paper here</a>

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My PhD supervisors are prof. Subramanian Ramamoorthy and prof. Timothy Hospedales. I have been very fortunate to collaborate with and learn from Dr. Franziska Meier, Dr. Michael Burke and Dr. Kevin Luck. I also completed the Google X AI Residency where I was hosted and supervised by prof. Stefan Schaal. Currently, I am a Visiting Intern at DeepMind where I work with Dr. Jon Scholz and a Google X AI resident (for a second time) where I continue learning from prof. Stefan Schaal.
+My PhD supervisors are prof. Subramanian Ramamoorthy and prof. Timothy Hospedales. I have been very fortunate to collaborate with and learn from many others including Dr. F. Meier, Dr. M Burke, K. Luck, J, Scholz, Y. Aytar, and M. Wulfmeier. I also completed two Google X AI Residencies where I was hosted and supervised by prof. Stefan Schaal and where I was involved with project Intrinsic. I also completed a Research Scientist internship at DeepMind where I was hosted by Dr. Jon Scholz and Dr. Oleg Sushov.
 
 A complete CV can be found [here](https://tdavchev.github.io/files/CV.pdf).
 
@@ -22,7 +22,8 @@ Education
 Work Experience
 ======
 
-* Visiting Intern @ <b> DeepMind </b> - Dec-June 2021
+* Research Scientist Intern @ <b> DeepMind </b> - Jul-Nov 2021
+* AI Resident @ <b> Google X / Intrinsic </b> - Dec-June 2021
 * AI Resident @ <b>Google X</b> - May-Sept 2019 / Dec-Jun 2021
 * Visiting Data Scientist @ <b>The Alan Turing Institute</b> - Aug 2017
 * Software Developer (test automation) @ <b>RSpace</b> - May-Dec 2016
