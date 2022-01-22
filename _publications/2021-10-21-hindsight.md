@@ -6,7 +6,7 @@ excerpt: 'In this work, we extend hindsight relabelling mechanisms to guide expl
 date: 2021-10-21
 venue: 'Deep RL Workshop @ NeurIPS 2022'
 paperurl: 'https://arxiv.org/pdf/2112.00597.pdf'
-citation: 'Davchev, Todor, Oleg Sushkov, Jean-baptiste Regli, Stefan Schaal, Yusuf Aytar, Markus Wulfmeier, Jon Scholz. "Wish you were here: Hindsight Goal Selection for Long-horizon Dexterous Manipulation." arXiv preprint arXiv:2112.00597 (2021).'
+citation: 'Davchev, Todor, Oleg Sushkov, Jean-baptiste Regli, Stefan Schaal, Yusuf Aytar, Markus Wulfmeier, Jon Scholz. "Wish you were here: Hindsight Goal Selection for Long-horizon Dexterous Manipulation." International Conference on Learning Representations (ICLR) 2022.'
 ---
 
 <a href='https://arxiv.org/pdf/2112.00597.pdf'>Download paper here</a>

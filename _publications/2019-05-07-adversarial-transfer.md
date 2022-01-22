@@ -6,7 +6,7 @@ excerpt: 'This paper studies the effects of using robust optimisation in the con
 date: 2019-05-07
 venue: 'International Conference on Machine Learning (ICML) 2019, Understanding and Improving Generalization Workshop'
 paperurl: 'https://arxiv.org/pdf/1905.02675.pdf'
-citation: 'Davchev, T., Korres, T., Fotiadis, S., Antonopoulos, N. and Ramamoorthy, S., 2019. An empirical evaluation of adversarial robustness under transfer learning. <i>International Conference on Machine Learning (ICML) 2019</i>, Understanding and Improving Generalization Workshop. Arxiv preprint arXiv:1905.02675.'
+citation: 'Davchev, T., Korres, T., Fotiadis, S., Antonopoulos, N. and Ramamoorthy, S., 2019. An empirical evaluation of adversarial robustness under transfer learning. <i>International Conference on Machine Learning (ICML) 2019</i>, Understanding and Improving Generalization Workshop.'
 ---
 
 <a href='https://arxiv.org/pdf/1905.02675.pdf'>Download paper here</a>
